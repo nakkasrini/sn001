@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { notFound } from 'next/navigation'
 import pool from '@/lib/db'
 import SubjectCard from '@/components/SubjectCard'

@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import pool from '@/lib/db'
 import SubjectCard from '@/components/SubjectCard'
 import GrammarSchoolSearch from '@/components/GrammarSchoolSearch'
